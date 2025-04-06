@@ -88,7 +88,7 @@ export default function Home() {
         "Pemesanan ulang otomatis dan peringatan stok rendah",
         "Pelacakan nomor seri dan batch"
       ],
-      image: "/img/inventory.png"
+      image: "/img/inventory-management.png"
     },
     'pos': {
       id: 'pos',
